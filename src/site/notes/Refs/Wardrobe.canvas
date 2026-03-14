@@ -1,0 +1,123 @@
+---
+{"dg-publish":true,"permalink":"/refs/wardrobe.canvas/","contentClasses":"canvas-page"}
+---
+
+<div id="Wardrobecanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Wardrobecanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Wardrobecanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><marker id="arrow-vartextmuted" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto" markerUnits="strokeWidth">
+			<path d="M0,0.5 L5,3 L0,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker>
+		<marker id="arrow-vartextmuted-start" markerWidth="6" markerHeight="6" refX="1" refY="3" orient="auto-start-reverse" markerUnits="strokeWidth">
+			<path d="M6,0.5 L1,3 L6,5.5" fill="none" stroke="var(--text-muted)" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" />
+		</marker><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs><path d="M -473.5 1099 C -473.5 1291.7573604301533, -133 1247.2426395698467, -133 1440" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="68775182a14f677f"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -133.5 871 C -133.5 1098.6000878734453, -133 1212.3999121265547, -133 1440" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c65c092b5059ed15"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 206.5 1099 C 206.5 1291.474933432902, -133 1247.525066567098, -133 1440" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="084874e85d33bfc9"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 206.5 639 C 206.5 986.9910918400067, -133 1092.0089081599933, -133 1440" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="23d0aa7a4fec3730"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -473.5 639 C -473.5 987.1473825838707, -133 1091.8526174161293, -133 1440" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="3115ed3d271c9b13"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -133.5 -439 C -133.5 -527.4002262440544, -133 -571.5997737559456, -133 -660" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="4cb82a26f3655cc1"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -473.5 -159 C -473.5 -401.3027032453415, -133 -417.6972967546585, -133 -660" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="f0fda4b076e1d571"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 206.5 -159 C 206.5 -401.0780865753859, -133 -417.9219134246141, -133 -660" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="50faba7548c5cbf6"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M 206.5 -460 C 206.5 -617.6123091639736, -133 -502.3876908360264, -133 -660" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="437c0f10aa17b016"  marker-end="url(#arrow-vartextmuted)" />
+<path d="M -473.5 -460 C -473.5 -617.9570827788359, -133 -502.04291722116415, -133 -660" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="caeb97f917b9ecec"  marker-end="url(#arrow-vartextmuted)" />
+		</svg>
+		<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ff81788ab0eceda7" style="transform: translate(-633px, -460px); width: 319px; height: 239px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Prince%20-%20Cream.gif" alt="Prince - Cream.gif" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="e4701b57706e8db2" style="transform: translate(-633px, 240px); width: 319px; height: 399px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Prep%2001.jpg" alt="Prep 01.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="22d1e0c876f17d37" style="transform: translate(-633px, 700px); width: 319px; height: 399px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Prep%2003.jpg" alt="Prep 03.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="2b0efee75e2ad0e7" style="transform: translate(47px, 700px); width: 319px; height: 399px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Outfit%2005.jpg" alt="Outfit 05.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="4d6b5931be0bc0a8" style="transform: translate(47px, 240px); width: 319px; height: 399px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Outfit%2007.jpg" alt="Outfit 07.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="0149040d39bae5d0" style="transform: translate(-280px, 480px); width: 293px; height: 391px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Outfit%2006.jpg" alt="Outfit 06.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="ff88cf94f7749f22" style="transform: translate(47px, -460px); width: 319px; height: 239px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Prince%20-%20Girls%20&%20Boys.gif" alt="Prince - Girls &amp; Boys.gif" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="c567eef32527dae5" style="transform: translate(-238px, -439px); width: 209px; height: 399px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Outfit%2010.jpg" alt="Outfit 10.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="503a0082679ba6ce" style="transform: translate(-258px, -720px); width: 250px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="UHJpbmNlIEhvbWFnZXM="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-text " data-node-id="edee6068083b4d74" style="transform: translate(-258px, 1440px); width: 250px; height: 60px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="SXZ5IExlYWd1ZSAvIFByZXBweSBTdHlsZQ=="></div>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="067ac72d4e377c8d" style="transform: translate(47px, -159px); width: 319px; height: 239px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/WARDROBE%20-%20Partyman%2001.gif" alt="WARDROBE - Partyman 01.gif" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="64e7a7d9ef466021" style="transform: translate(-633px, -159px); width: 319px; height: 239px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/Prince%20-%20Violet%20The%20Organ%20Grinder.gif" alt="Prince - Violet The Organ Grinder.gif" loading="lazy" />
+		</div>
+	</div>
+</div>
+	</div>
+</div>
