@@ -1,0 +1,49 @@
+---
+{"dg-publish":true,"permalink":"/ivy-ligue-purple-rain-video-treatment.canvas/","contentClasses":"canvas-page","tags":["gardenEntry"]}
+---
+
+<div id="IVY_LIGUE_-_PURPLE_RAIN_VIDEO_TREATMENTcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-IVY_LIGUE_-_PURPLE_RAIN_VIDEO_TREATMENTcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-IVY_LIGUE_-_PURPLE_RAIN_VIDEO_TREATMENTcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-file " data-node-id="f699d73144d56235" data-file-path="Refs/Video Scene References.canvas" style="transform: translate(-4800px, -960px); width: 2041px; height: 2080px; ">
+	<div class="canvas-node-label">Video Scene References.canvas</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/refs/video-scene-references.canvas//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="aaaed4912fa0a4e2" data-file-path="Refs/Wardrobe.canvas" style="transform: translate(-2405px, -960px); width: 2041px; height: 2080px; ">
+	<div class="canvas-node-label">Wardrobe.canvas</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/refs/wardrobe.canvas//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="13467fca4a12af51" data-file-path="Refs/Stylistic References.md" style="transform: translate(79px, -960px); width: 2041px; height: 2080px; ">
+	<div class="canvas-node-label">Stylistic References</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/refs/stylistic-references//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
